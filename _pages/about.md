@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Yue Guo (郭月)'s webpage! I am a seconed year Ph.D. student in [Biomedical and Health Informatics Department](http://bime.uw.edu) at [the University of Washignton](https://www.washington.edu), advised by Prof. [Trevor Cohen](http://bime.uw.edu/faculty/trevor-cohen/). I received my Master of Health Science from the Bloomberg School of Public Health, Johns Hopkins, majoring in cancer Epidemiology. 
+Welcome to Yue Guo (郭月)'s webpage! I am a seconed year Ph.D. student in [Biomedical and Health Informatics Department](http://bime.uw.edu) at [the University of Washignton](https://www.washington.edu), advised by Prof. [Trevor Cohen](http://bime.uw.edu/faculty/trevor-cohen/). I received my Master of Health Science from [the Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu), majoring in cancer [Epidemiology](https://www.jhsph.edu/departments/epidemiology/). 
 
 A data-driven personal website
 ======
