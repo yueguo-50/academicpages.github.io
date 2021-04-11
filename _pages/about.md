@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Yue Guo (郭月)'s webpage! I am a seconed year Ph.D. student in [Biomedical and Health Informatics Department](http://bime.uw.edu) at [the University of Washignton](https://www.washington.edu), advised by Prof. [Trevor Cohen](http://bime.uw.edu/faculty/trevor-cohen/). I received my Master of Health Science from [the Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu), majoring in cancer [Epidemiology](https://www.jhsph.edu/departments/epidemiology/). 
+Welcome to Yue Guo (郭月)'s webpage! I am a seconed year Ph.D. student in [Biomedical and Health Informatics Department](http://bime.uw.edu) at [the University of Washignton](https://www.washington.edu), advised by Prof. [Trevor Cohen](http://bime.uw.edu/faculty/trevor-cohen/). I am particularly interested in **Natural Language Processing** and **Machine Learning** in medical domain.
+
+Before coming to UW, I was a postdoctoral researcher of [clinical informatics in the Department of Radiation Oncology and Molecular Radiation Sciences](https://oncospace.radonc.jhmi.edu/Overview/Default.aspx) at Johns Hopkins University School of Medicine, supervised by [Todd McNutt](https://www.hopkinsmedicine.org/profiles/details/todd-mcnutt). I received my Master of Health Science (MHS) from [the Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu), majoring in cancer [Epidemiology](https://www.jhsph.edu/departments/epidemiology/). I got Bachelor of Medicine, Bachelor of Surgery (M.B.B.S) degree from [ Capital Medical University]（http://www.ccmu.edu.cn).
 
 A data-driven personal website
 ======
