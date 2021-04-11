@@ -23,8 +23,8 @@ In Proceeding of AAAI conference in Artificial Intelligence, 2021
 <i class="fa fa-fw fa-rss-square"></i>
 <i class="fab fa-bitbucket"></i>
 
-<i class="fab anticon-file-pdf"></i>
-sd
+<i class="fas fa-file-pdf"></i>
+sn
 
 Site-wide configuration
 ------
