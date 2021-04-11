@@ -14,9 +14,10 @@ Before coming to UW, I was a postdoctoral researcher of [clinical informatics in
 
 Publications
 ======
-Automated Lay Language Summarization of Biomedical ScientificReviews.
+Automated Lay Language Summarization of Biomedical Scientific Reviews.
 Yue Guo, Wei Qiu, Yizhong Wang, Trevor Cohen.
-35th AAAI conference in Artificial Intelligence,2021
+In Proceeding of AAAI conference in Artificial Intelligence, 2021
+<i class="fas fa-play-circle"></i>
 
 Getting started
 ======
