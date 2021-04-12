@@ -14,17 +14,17 @@ Before coming to UW, I was a postdoctoral researcher of the Department of Radiat
 
 Publications
 ======
-> Automated Lay Language Summarization of Biomedical Scientific Reviews<br>
-> <span style="font-size:0.75em">**Yue Guo**, Wei Qiu, Yizhong Wang, Trevor Cohen</span> <br>
-> <span style="font-size:0.75em">the 35th AAAI conference in Artificial Intelligence (AAAI 2021)</span>
-> [<i class="fas fa-file-pdf"></i>](https://arxiv.org/pdf/2012.12573.pdf)
-> [<i class="fab fa-github"></i>](https://github.com/qiuweipku/Plain_language_summarization)
-> <i class="fas fa-play-circle"></i>
+Automated Lay Language Summarization of Biomedical Scientific Reviews<br>
+<span style="font-size:0.75em">**Yue Guo**, Wei Qiu, Yizhong Wang, Trevor Cohen</span> <br>
+<span style="font-size:0.75em">the 35th AAAI conference in Artificial Intelligence (AAAI 2021)</span>
+[<i class="fas fa-file-pdf"></i>](https://arxiv.org/pdf/2012.12573.pdf)
+[<i class="fab fa-github"></i>](https://github.com/qiuweipku/Plain_language_summarization)
+<i class="fas fa-play-circle"></i>
 
-> Crossing the 'Cookie Theft' Corpus Chasm: Applying what BERT Learns from Outside Data to the ADReSS Challenge Dementia Detection Task<br>
-> **Yue Guo**, Changye Li, Carol Roan, Serguei Pakhomov, Trevor Cohen<br>
-> Frontiers in Computer Science, 2021
-> [<i class="fas fa-file-pdf"></i>](https://www.frontiersin.org/articles/10.3389/fcomp.2021.642517/abstract)
+Crossing the 'Cookie Theft' Corpus Chasm: Applying what BERT Learns from Outside Data to the ADReSS Challenge Dementia Detection Task<br>
+**Yue Guo**, Changye Li, Carol Roan, Serguei Pakhomov, Trevor Cohen<br>
+Frontiers in Computer Science, 2021
+[<i class="fas fa-file-pdf"></i>](https://www.frontiersin.org/articles/10.3389/fcomp.2021.642517/abstract)
 
 > The Performance of Immunocytochemistry Staining as Triaging Tests for High-Risk HPV-Positive Women:A 24-Month Prospective Study<br>
 > Yu-Cong Li, Yu-Qian Zhao, Ting-Yuan Li, Wen Chen, Guang-Dong Liao, Hai-Rui Wang, Hai-Ke Lei, **Yue Guo**, Qi Zhou <br>
@@ -35,6 +35,11 @@ Publications
 > Yue Guo, Wei Jiang, Pranav Lakshminarayanan, Xuan Hui, Peijin Han, Zhi Cheng, Michale Bowers, Ilya Shpitser,Sauleh Siddiqui, Russell H Taylor, Harry Quon, Todd McNutt<br>
 > Advances in Radiation Oncology, 2020
 > [<i class="fas fa-file-pdf"></i>](https://www.advancesradonc.org/action/showPdf?pii=S2452-1094%2819%2930122-8)
+
+> Dose/Volume histogram patterns in Salivary Gland subvolumes influence xerostomia injury and recovery<br>
+> Peijin Han, Pranav Lakshminarayanan, Wei Jiang, Ilya Shpitser, Xuan Hui, Sang Ho Lee, Zhi Cheng,Yue Guo,Russ Taylor, Sauleh Siddiqui, Michael Bowers, Khadija Sheikh, Junghoon Lee, Harry Quon, Todd McNutt<br>
+> Scientific Reports, 2019
+> [<i class="fas fa-file-pdf"></i>](https://www.nature.com/articles/s41598-019-40228-y.pdf)
 
 For more info
 ------
