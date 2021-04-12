@@ -26,19 +26,19 @@ Crossing the 'Cookie Theft' Corpus Chasm: Applying what BERT Learns from Outside
 <span style="font-size:0.75em">Frontiers in Computer Science, 2021</span>
 [<i class="fas fa-file-pdf"></i>](https://www.frontiersin.org/articles/10.3389/fcomp.2021.642517/abstract)
 
-> The Performance of Immunocytochemistry Staining as Triaging Tests for High-Risk HPV-Positive Women:A 24-Month Prospective Study<br>
-> Yu-Cong Li, Yu-Qian Zhao, Ting-Yuan Li, Wen Chen, Guang-Dong Liao, Hai-Rui Wang, Hai-Ke Lei, **Yue Guo**, Qi Zhou <br>
-> Journal of Oncology, 2020
-> [<i class="fas fa-file-pdf"></i>](https://downloads.hindawi.com/journals/jo/2020/6878761.pdf)
+The Performance of Immunocytochemistry Staining as Triaging Tests for High-Risk HPV-Positive Women:A 24-Month Prospective Study<br>
+<span style="font-size:0.75em">Yu-Cong Li, Yu-Qian Zhao, Ting-Yuan Li, Wen Chen, Guang-Dong Liao, Hai-Rui Wang, Hai-Ke Lei, **Yue Guo**, Qi Zhou</span><br>
+<span style="font-size:0.75em">Journal of Oncology, 2020</span>
+[<i class="fas fa-file-pdf"></i>](https://downloads.hindawi.com/journals/jo/2020/6878761.pdf)
 
 > Spatial radiation dose influence on xerostomia recoveryand its comparison to acute incidence in head neck cancer patients<br>
-> Yue Guo, Wei Jiang, Pranav Lakshminarayanan, Xuan Hui, Peijin Han, Zhi Cheng, Michale Bowers, Ilya Shpitser,Sauleh Siddiqui, Russell H Taylor, Harry Quon, Todd McNutt<br>
-> Advances in Radiation Oncology, 2020
+> <span style="font-size:0.75em">Yue Guo, Wei Jiang, Pranav Lakshminarayanan, Xuan Hui, Peijin Han, Zhi Cheng, Michale Bowers, Ilya Shpitser,Sauleh Siddiqui, Russell H Taylor, Harry Quon, Todd McNutt</span><br>
+> <span style="font-size:0.75em">Advances in Radiation Oncology, 2020</span>
 > [<i class="fas fa-file-pdf"></i>](https://www.advancesradonc.org/action/showPdf?pii=S2452-1094%2819%2930122-8)
 
 > Dose/Volume histogram patterns in Salivary Gland subvolumes influence xerostomia injury and recovery<br>
-> Peijin Han, Pranav Lakshminarayanan, Wei Jiang, Ilya Shpitser, Xuan Hui, Sang Ho Lee, Zhi Cheng,Yue Guo,Russ Taylor, Sauleh Siddiqui, Michael Bowers, Khadija Sheikh, Junghoon Lee, Harry Quon, Todd McNutt<br>
-> Scientific Reports, 2019
+> <span style="font-size:0.75em">Peijin Han, Pranav Lakshminarayanan, Wei Jiang, Ilya Shpitser, Xuan Hui, Sang Ho Lee, Zhi Cheng,Yue Guo,Russ Taylor, Sauleh Siddiqui, Michael Bowers, Khadija Sheikh, Junghoon Lee, Harry Quon, Todd McNutt</span><br>
+> <span style="font-size:0.75em">Scientific Reports, 2019</span>
 > [<i class="fas fa-file-pdf"></i>](https://www.nature.com/articles/s41598-019-40228-y.pdf)
 
 For more info
