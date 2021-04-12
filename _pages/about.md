@@ -15,7 +15,7 @@ Before coming to UW, I was a postdoctoral researcher of the Department of Radiat
 Publications
 ======
 > Automated Lay Language Summarization of Biomedical Scientific Reviews<br>
-> <span style="font-size:1em">**Yue Guo**, Wei Qiu, Yizhong Wang, Trevor Cohen</span> <br>
+> <span style="font-size:0.5em">**Yue Guo**, Wei Qiu, Yizhong Wang, Trevor Cohen</span> <br>
 > the 35th AAAI conference in Artificial Intelligence (AAAI 2021)
 > [<i class="fas fa-file-pdf"></i>](https://arxiv.org/pdf/2012.12573.pdf)
 > [<i class="fab fa-github"></i>](https://github.com/qiuweipku/Plain_language_summarization)
@@ -29,11 +29,12 @@ Publications
 > The Performance of Immunocytochemistry Staining as Triaging Tests for High-Risk HPV-Positive Women:A 24-Month Prospective Study<br>
 > Yu-Cong Li, Yu-Qian Zhao, Ting-Yuan Li, Wen Chen, Guang-Dong Liao, Hai-Rui Wang, Hai-Ke Lei, **Yue Guo**, Qi Zhou <br>
 > Journal of Oncology, 2020
-> > [<i class="fas fa-file-pdf"></i>](https://downloads.hindawi.com/journals/jo/2020/6878761.pdf)
+> [<i class="fas fa-file-pdf"></i>](https://downloads.hindawi.com/journals/jo/2020/6878761.pdf)
 
->Spatial radiation dose influence on xerostomia recoveryand its comparison to acute incidence in head neck cancer patients
->Yue Guo, Wei Jiang, Pranav Lakshminarayanan, Xuan Hui, Peijin Han, Zhi Cheng, Michale Bowers, Ilya Shpitser,Sauleh Siddiqui, Russell H Taylor, Harry Quon, Todd McNutt
->Advances in Radiation Oncology, 2020
+> Spatial radiation dose influence on xerostomia recoveryand its comparison to acute incidence in head neck cancer patients<br>
+> Yue Guo, Wei Jiang, Pranav Lakshminarayanan, Xuan Hui, Peijin Han, Zhi Cheng, Michale Bowers, Ilya Shpitser,Sauleh Siddiqui, Russell H Taylor, Harry Quon, Todd McNutt<br>
+> Advances in Radiation Oncology, 2020
+> [<i class="fas fa-file-pdf"></i>](https://www.advancesradonc.org/action/showPdf?pii=S2452-1094%2819%2930122-8)
 
 For more info
 ------
