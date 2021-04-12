@@ -14,23 +14,20 @@ Before coming to UW, I was a postdoctoral researcher of the Department of Radiat
 
 Publications
 ======
-> Automated Lay Language Summarization of Biomedical Scientific Reviews**
->
->Yue Guo, Wei Qiu, Yizhong Wang, Trevor Cohen
->
->the 35th AAAI conference in Artificial Intelligence (AAAI 2021)
->
->[<i class="fas fa-file-pdf"></i>](https://arxiv.org/pdf/2012.12573.pdf)
->[<i class="fab fa-github"></i>](https://github.com/qiuweipku/Plain_language_summarization)
-><i class="fas fa-play-circle"></i>
+> Automated Lay Language Summarization of Biomedical Scientific Reviews
+> **Yue Guo**, Wei Qiu, Yizhong Wang, Trevor Cohen
+> the 35th AAAI conference in Artificial Intelligence (AAAI 2021)
+> [<i class="fas fa-file-pdf"></i>](https://arxiv.org/pdf/2012.12573.pdf)
+> [<i class="fab fa-github"></i>](https://github.com/qiuweipku/Plain_language_summarization)
+> <i class="fas fa-play-circle"></i>
 
 > Crossing the 'Cookie Theft' Corpus Chasm: Applying what BERT Learns from Outside Data to the ADReSS Challenge Dementia Detection Task
 >
-> Yue Guo, Changye Li, Carol Roan, Serguei Pakhomov, Trevor Cohen
-> Frontiers in Computer Science
+> **Yue Guo**, Changye Li, Carol Roan, Serguei Pakhomov, Trevor Cohen
+> Frontiers in Computer Science, 2021
 > [<i class="fas fa-file-pdf"></i>](https://www.frontiersin.org/articles/10.3389/fcomp.2021.642517/abstract)
 
-
+> 
 
 
 
