@@ -58,6 +58,6 @@ Voxel Dose Pattern for Patient-ReportedDysphagia Among Head and Neck Cancer Pati
 <span style="font-size:0.75em">International Journal of RadiationOncology Biology Physics, 2019</span>
 [<i class="fas fa-file-pdf"></i>](https://www.redjournal.org/article/S0360-3016(19)30920-4/fulltext)
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+CV
+----
+Please see my cv [here](). Feel free to contact me at yguo50@uw.edu.
