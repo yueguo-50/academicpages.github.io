@@ -60,5 +60,5 @@ Voxel Dose Pattern for Patient-ReportedDysphagia Among Head and Neck Cancer Pati
 
 CV
 ----
-b<a href="/cv.pdf" target="_blank">PDF.</a>
+1<a href="/_page/cv.pdf" target="_blank">PDF.</a>
 Please see my cv [here](/../_cv/cv.pdf). Feel free to contact me at yguo50@uw.edu.
