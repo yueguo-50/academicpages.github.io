@@ -62,3 +62,4 @@ CV
 ----
 1<a href="/_page/cv.pdf" target="_blank">PDF.</a>
 Please see my cv [here](/../_cv/cv.pdf). Feel free to contact me at yguo50@uw.edu.
+2<a href="https://yueguo-50.github.io/cv.pdf" target="_blank">please click here.</a> <embed src="https://yueguo-50.github.io/cv.pdf" width="1000px" height="800px" />
