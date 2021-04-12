@@ -15,8 +15,8 @@ Before coming to UW, I was a postdoctoral researcher of the Department of Radiat
 Publications
 ======
 > Automated Lay Language Summarization of Biomedical Scientific Reviews<br>
-> <span style="font-size:0.5em">**Yue Guo**, Wei Qiu, Yizhong Wang, Trevor Cohen</span> <br>
-> the 35th AAAI conference in Artificial Intelligence (AAAI 2021)
+> <span style="font-size:0.75em">**Yue Guo**, Wei Qiu, Yizhong Wang, Trevor Cohen</span> <br>
+> <span style="font-size:0.75em">the 35th AAAI conference in Artificial Intelligence (AAAI 2021)</span>
 > [<i class="fas fa-file-pdf"></i>](https://arxiv.org/pdf/2012.12573.pdf)
 > [<i class="fab fa-github"></i>](https://github.com/qiuweipku/Plain_language_summarization)
 > <i class="fas fa-play-circle"></i>
