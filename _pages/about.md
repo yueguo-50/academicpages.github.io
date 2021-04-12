@@ -48,12 +48,12 @@ The feasibility of outcome-based treatmentplanning strategy to improve xerostomi
 <span style="font-size:0.75em">International Journal of Radiation Oncology Biology Physics, 2019</span>
 [<i class="fas fa-file-pdf"></i>](https://www.redjournal.org/article/S0360-3016(19)31173-3/fulltext)
 
-Evaluation of Patient vs. Provider Based Assessments of Xerostomia and Dysphagia Compared AgainstWeight Loss in the Irradiated Head and Neck Cancer Patient<br>
+Evaluation of patient vs. provider based assessments of xerostomia and dysphagia compared against weight loss in the irradiated head and neck cancer patient<br>
 <span style="font-size:0.75em">**Yue Guo**, Zhi Cheng, Emily Cecil, Pranav Lakshminarayanan, Yifei Lu, Peijin Han, Ana Kiess, Todd McNutt, Harry Quon</span><br>
 <span style="font-size:0.75em">International Journal of Radiation Oncology BiologyPhysics, 2019</span>
 [<i class="fas fa-file-pdf"></i>](https://www.redjournal.org/article/S0360-3016(19)32031-0/fulltext)
 
-Voxel Dose Pattern for Patient-ReportedDysphagia Among Head and Neck Cancer Patients Receiving Definitive Radiotherapy
+Voxel dose pattern for patient-reported dysphagia among head and neck cancer patients receiving definitive radiotherapy
 <span style="font-size:0.75em">Zhi Cheng, Khadijia Sheikh, Pranav Lakshminarayanan, Wei Jiang, Peijin Han, **Yue Guo**, Emily Cecil, L Sloan,Ana Kiess, Brandi Page, Junhoon Lee, Harry Quon, Todd McNutt</span><br>
 <span style="font-size:0.75em">International Journal of RadiationOncology Biology Physics, 2019</span>
 [<i class="fas fa-file-pdf"></i>](https://www.redjournal.org/article/S0360-3016(19)30920-4/fulltext)
