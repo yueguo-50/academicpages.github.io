@@ -22,8 +22,8 @@ Automated Lay Language Summarization of Biomedical Scientific Reviews<br>
 <i class="fas fa-play-circle"></i>
 
 Crossing the 'Cookie Theft' Corpus Chasm: Applying what BERT Learns from Outside Data to the ADReSS Challenge Dementia Detection Task<br>
-**Yue Guo**, Changye Li, Carol Roan, Serguei Pakhomov, Trevor Cohen<br>
-Frontiers in Computer Science, 2021
+<span style="font-size:0.75em">**Yue Guo**, Changye Li, Carol Roan, Serguei Pakhomov, Trevor Cohen</span> <br>
+<span style="font-size:0.75em">Frontiers in Computer Science, 2021</span>
 [<i class="fas fa-file-pdf"></i>](https://www.frontiersin.org/articles/10.3389/fcomp.2021.642517/abstract)
 
 > The Performance of Immunocytochemistry Staining as Triaging Tests for High-Risk HPV-Positive Women:A 24-Month Prospective Study<br>
