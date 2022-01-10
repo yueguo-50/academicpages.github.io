@@ -31,7 +31,7 @@ The Performance of Immunocytochemistry Staining as Triaging Tests for High-Risk 
 <span style="font-size:0.75em">Journal of Oncology, 2020</span>
 [<i class="fas fa-file-pdf"></i>](https://downloads.hindawi.com/journals/jo/2020/6878761.pdf)
 
-Spatial Radiation Dose Influence on Xerostomia Recoveryand Its Comparison to Acute Incidence in Head Neck Cancer Patients<br>
+Spatial Radiation Dose Influence on Xerostomia Recovery and Its Comparison to Acute Incidence in Head Neck Cancer Patients<br>
 <span style="font-size:0.75em">**Yue Guo**, Wei Jiang, Pranav Lakshminarayanan, Xuan Hui, Peijin Han, Zhi Cheng, Michale Bowers, Ilya Shpitser,Sauleh Siddiqui, Russell H Taylor, Harry Quon, Todd McNutt</span><br>
 <span style="font-size:0.75em">Advances in Radiation Oncology, 2020</span>
 [<i class="fas fa-file-pdf"></i>](https://www.advancesradonc.org/action/showPdf?pii=S2452-1094%2819%2930122-8)
