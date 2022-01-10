@@ -53,7 +53,7 @@ Evaluation of patient vs. provider based assessments of xerostomia and dysphagia
 <span style="font-size:0.75em">International Journal of Radiation Oncology BiologyPhysics, 2019</span>
 [<i class="fas fa-file-pdf"></i>](https://www.redjournal.org/article/S0360-3016(19)32031-0/fulltext)
 
-Voxel dose pattern for patient-reported dysphagia among head and neck cancer patients receiving definitive radiotherapy
+Voxel dose pattern for patient-reported dysphagia among head and neck cancer patients receiving definitive radiotherapy<br>
 <span style="font-size:0.75em">Zhi Cheng, Khadijia Sheikh, Pranav Lakshminarayanan, Wei Jiang, Peijin Han, **Yue Guo**, Emily Cecil, L Sloan,Ana Kiess, Brandi Page, Junhoon Lee, Harry Quon, Todd McNutt</span><br>
 <span style="font-size:0.75em">International Journal of RadiationOncology Biology Physics, 2019</span>
 [<i class="fas fa-file-pdf"></i>](https://www.redjournal.org/article/S0360-3016(19)30920-4/fulltext)
