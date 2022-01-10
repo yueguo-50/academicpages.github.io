@@ -31,29 +31,29 @@ The Performance of Immunocytochemistry Staining as Triaging Tests for High-Risk 
 <span style="font-size:0.75em">Journal of Oncology, 2020</span>
 [<i class="fas fa-file-pdf"></i>](https://downloads.hindawi.com/journals/jo/2020/6878761.pdf)
 
-Spatial radiation dose influence on xerostomia recoveryand its comparison to acute incidence in head neck cancer patients<br>
+Spatial Radiation Dose Influence on Xerostomia Recoveryand Its Comparison to Acute Incidence in Head Neck Cancer Patients<br>
 <span style="font-size:0.75em">**Yue Guo**, Wei Jiang, Pranav Lakshminarayanan, Xuan Hui, Peijin Han, Zhi Cheng, Michale Bowers, Ilya Shpitser,Sauleh Siddiqui, Russell H Taylor, Harry Quon, Todd McNutt</span><br>
 <span style="font-size:0.75em">Advances in Radiation Oncology, 2020</span>
 [<i class="fas fa-file-pdf"></i>](https://www.advancesradonc.org/action/showPdf?pii=S2452-1094%2819%2930122-8)
 
-Dose/Volume histogram patterns in Salivary Gland subvolumes influence xerostomia injury and recovery<br>
+Dose/Volume Histogram Patterns in Salivary Gland Subvolumes Influence Xerostomia Injury and Recovery<br>
 <span style="font-size:0.75em">Peijin Han, Pranav Lakshminarayanan, Wei Jiang, Ilya Shpitser, Xuan Hui, Sang Ho Lee, Zhi Cheng, **Yue Guo**, Russ Taylor, Sauleh Siddiqui, Michael Bowers, Khadija Sheikh, Junghoon Lee, Harry Quon, Todd McNutt</span><br>
 <span style="font-size:0.75em">Scientific Reports, 2019</span>
 [<i class="fas fa-file-pdf"></i>](https://www.nature.com/articles/s41598-019-40228-y.pdf)
 
 Presentations
 ======
-The feasibility of outcome-based treatmentplanning strategy to improve xerostomia symptom in head and neck cancer patients<br>
+The Feasibility of Outcome-Based Treatment Planning Strategy to Improve Xerostomia Symptom in Head and Neck Cancer Patients<br>
 <span style="font-size:0.75em">**Yue Guo**, Pranav Lakshminarayanan, Peijin Han, Khadija Sheikh, Zhi Cheng, Wei Jiang, Michael Bowers, SaulehSiddiqui, Ilya Shpitser, Russell H Taylor, Harry Quon, Todd McNutt</span><br>
 <span style="font-size:0.75em">International Journal of Radiation Oncology Biology Physics, 2019</span>
 [<i class="fas fa-file-pdf"></i>](https://www.redjournal.org/article/S0360-3016(19)31173-3/fulltext)
 
-Evaluation of patient vs. provider based assessments of xerostomia and dysphagia compared against weight loss in the irradiated head and neck cancer patient<br>
+Evaluation of Patient vs. Provider Based Assessments of Xerostomia and Dysphagia Compared Against Weight Loss in the Irradiated Head and Neck Cancer Patient<br>
 <span style="font-size:0.75em">**Yue Guo**, Zhi Cheng, Emily Cecil, Pranav Lakshminarayanan, Yifei Lu, Peijin Han, Ana Kiess, Todd McNutt, Harry Quon</span><br>
 <span style="font-size:0.75em">International Journal of Radiation Oncology BiologyPhysics, 2019</span>
 [<i class="fas fa-file-pdf"></i>](https://www.redjournal.org/article/S0360-3016(19)32031-0/fulltext)
 
-Voxel dose pattern for patient-reported dysphagia among head and neck cancer patients receiving definitive radiotherapy<br>
+Voxel Dose Pattern for Patient-Reported Dysphagia among Head and Neck Cancer Patients Receiving Definitive Radiotherapy<br>
 <span style="font-size:0.75em">Zhi Cheng, Khadijia Sheikh, Pranav Lakshminarayanan, Wei Jiang, Peijin Han, **Yue Guo**, Emily Cecil, L Sloan,Ana Kiess, Brandi Page, Junhoon Lee, Harry Quon, Todd McNutt</span><br>
 <span style="font-size:0.75em">International Journal of RadiationOncology Biology Physics, 2019</span>
 [<i class="fas fa-file-pdf"></i>](https://www.redjournal.org/article/S0360-3016(19)30920-4/fulltext)
