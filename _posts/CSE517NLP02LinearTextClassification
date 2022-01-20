@@ -1,0 +1,50 @@
+---
+title: 'NLP: Linear Text Classification'
+date: 2013-08-14
+permalink: /posts/2013/08/blog-post-2/
+tags:
+  - NLP
+---
+Acknoledgement: this is study notes for UW CSE 517 (instructor: Noah Smith)
+
+1. Classification 
+- Input: document, paragraph, sentence, word
+- Output: labels L (decide by humans)
+- Notation: V* -> L
+Document level classification: new stories, reviews, author attributes, email, reading level of a piece of text;
+
+Notation:
+- V is the set of words in language we're working with
+- X is a random variable for texts (inputs). It takes a value from V* (sequences of words)
+- Y is a random variable for labels (outputs). It takes a value from L
+- p(X, Y) is the "true" distribution of labeled texts
+- p(Y) is teh distribution of labels
+
+2. Evaluation (estimated using a test dataset)
+- **Accuracy**: correctly classified = (TN + TP)/(TN + TP + FN + FP)
+- Issues with accuracy: 
+- 1. When class is imbalanced, use precision and recall
+-- **Precision**:TP/(TP + FP)
+-- **Recall**:TN/(TN + FN)
+-- **F1 score**: 2 * (precision * recall)/(precision + recall)
+-- Macroaveraged precision and recall: let each class be the "target" and report the average Phat and Rhat across all classes. Treat all classes equally.
+-- Microaveraged precision and recall: one-vs-the-rest,, then calculate Phat and Rhat. Classes with higher frequency has more weight.
+- 2. Relative importance of classes or cost of error types: report precision and recall for each class
+- 3. Variance due to the test data: repeat entire experiment with shuffled data, multiple times, and report mean and std. Cross-validation and statistical significance
+
+3. Build a text classifier:
+- Human experts label some data -> feed data to a supervised ML model that constructs an automatic classifier classify: V* -> L -> apply classify to any data
+- **Features** of a text: a different representation of the text sequences
+-- term (word or word sequence) frequncy: "Bag of word" method based on term frequency (delete the stop words)
+-- binary word presence feature
+-- transformation on word frequencies: idf (how many documents have this word) -> downweight the word that presents in more documents
+-- bias feature
+
+4. Logistic regression:
+- a collection of feature functions phi_1,..., phi_d, each mapping V*. -> R. (Choosen by the designer)
+- a coeeficient for every feature theta_1, ..., theta_d, each belongs to R. (choose automatically by applying ML)
+- score_LR(x:theta) = \sum_j=1_d{theta_j*phi_j(x)} -> classify_LR(x) = sign(score_LR(x:theta))
+- Standard Logistic Function (Sigmoid Function): get the probability distribution over the labels
+- Maximum likelihood: given the input, find theta that makes probability to have y to be largest.
+- Cross entropy = -logp_LR(T=y_i|X=x_i;theta)
+- theta* function is convex, so these methods will have a global minimal.
