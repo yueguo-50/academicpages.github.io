@@ -42,9 +42,10 @@ Notation:
 
 4. Logistic regression:
 - a collection of feature functions phi_1,..., phi_d, each mapping V*. -> R. (Choosen by the designer)
-- a coeeficient for every feature theta_1, ..., theta_d, each belongs to R. (choose automatically by applying ML)
+- a coefficient for every feature theta_1, ..., theta_d, each belongs to R. (choose automatically by applying ML)
 - score_LR(x:theta) = \sum_j=1_d{theta_j*phi_j(x)} -> classify_LR(x) = sign(score_LR(x:theta))
 - Standard Logistic Function (Sigmoid Function): get the probability distribution over the labels
+![plot](../images/sigmoid_function.png)
 - Maximum likelihood: given the input, find theta that makes probability to have y to be largest.
 - Cross entropy = -logp_LR(T=y_i|X=x_i;theta)
 - theta* function is convex, so these methods will have a global minimal.
