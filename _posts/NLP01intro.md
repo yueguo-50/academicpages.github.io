@@ -11,7 +11,7 @@ Natural language processing is about automatic analysis and generation of text. 
 Difficulties in NLP: 
 - Segmenting text into words.
 - Huge number of different surface forms
-- Words with multiplw meanings
+- Words with multiple meanings
 - Context-specific meanings: latex
 - Multiword expressions where multiple words combine to mean something that's not merely the 'sum of the word': make a decision
 - New words (covid-19) and changing meanings
