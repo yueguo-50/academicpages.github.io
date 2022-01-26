@@ -44,8 +44,17 @@ Notation:
 - a collection of feature functions phi_1,..., phi_d, each mapping V*. -> R. (Choosen by the designer)
 - a coefficient for every feature theta_1, ..., theta_d, each belongs to R. (choose automatically by applying ML)
 - score_LR(x:theta) = \sum_j=1_d{theta_j*phi_j(x)} -> classify_LR(x) = sign(score_LR(x:theta))
-- Standard Logistic Function (Sigmoid Function): get the probability distribution over the labels
+- Standard Logistic Function (Sigmoid Function): get the probability distribution over the labels. t-> infinite, sigmoid->1
 ![plot](../images/sigmoid_function.png)
+- Probability over labels = sigmoid(score_LR)
 - Maximum likelihood: given the input, find theta that makes probability to have y to be largest.
 - Cross entropy = -logp_LR(T=y_i|X=x_i;theta)
 - theta* function is convex, so these methods will have a global minimal.
+- Gradient of the loss with respect to theta
+- **Stochastic Gradient Sescent**:
+-- Goal: minimize \sum_i=1_N{g_i(theta)} with respect to theta
+-- Input: initial value theta, number of epochs T, learning rate alpha
+-- Output: theta
+
+5. Multinominal Logistic Regression:
+- 
