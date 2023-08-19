@@ -34,7 +34,7 @@ Selected publications
 ======
 <table style="width:100%; border: none; font-size: 18px;">
     <tr>
-        <td style="width: 500px; border: none; font-weight: bold;"><img src="../images/teaser_image_APPLS.png" alt="Publication Image" style="width:300px; vertical-align:middle;"></td>
+        <td style="width: 250px; border: none; font-weight: bold;"><img src="../images/teaser_image_APPLS.png" alt="Publication Image" style="width:200px; vertical-align:middle; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);"></td>
         <td style="border: none;">APPLS: A Meta-evaluation Testbed for Plain Language Summarization<br>
 <span style="font-size:0.75em">**Yue Guo**, Tal August, Gondy Leroy, Trevor Cohen, Lucy Lu Wang</span><br>
 <span style="font-size:0.75em">arXiv May 2023</span>
