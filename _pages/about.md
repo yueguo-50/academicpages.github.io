@@ -18,6 +18,21 @@ News
 
 **2023-05-23** <span style="display: inline-block; margin-left: 2em;">New preprints available! [“APPLS: A Meta-evaluation Testbed for Plain Language Summarization”](https://arxiv.org/pdf/2305.14341.pdf)</span>
 
+<table style="width:100%; border: none;">
+    <tr>
+        <td style="width: 150px; border: none; font-weight: bold;">2023-08-19</td>
+        <td style="border: none;">This is the content for this date. When the content wraps, it should align with the start of this sentence and not the date.</td>
+    </tr>
+    <tr>
+        <td style="width: 150px; border: none; font-weight: bold;">2023-08-18</td>
+        <td style="border: none;">Content for the previous date. Each date will have its own content section like this. And if this text wraps, it too should align properly.</td>
+    </tr>
+    <tr>
+        <td style="width: 150px; border: none; font-weight: bold;">2023-08-17</td>
+        <td style="border: none;">And another content section for this date. If it wraps, the alignment remains consistent.</td>
+    </tr>
+</table>
+
 Publications
 ======
 APPLS: A Meta-evaluation Testbed for Plain Language Summarization<br>
