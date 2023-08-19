@@ -23,6 +23,7 @@ News
         <td>2023-05-23</td>
         <td>New preprints available! [“APPLS: A Meta-evaluation Testbed for Plain Language Summarization”](https://arxiv.org/pdf/2305.14341.pdf)</td>
     </tr>
+</table>
 
 Publications
 ======
