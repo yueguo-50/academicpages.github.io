@@ -14,12 +14,12 @@ Before coming to UW, I was a postdoctoral researcher of the Department of Radiat
 
 Publications
 ======
-APPLS: A Meta-evaluation Testbed for Plain Language Summarization
+APPLS: A Meta-evaluation Testbed for Plain Language Summarization<br>
 <span style="font-size:0.75em">**Yue Guo**, Tal August, Gondy Leroy, Trevor Cohen, Lucy Lu Wang</span><br>
 <span style="font-size:0.75em">Pre-print, 2023</span>
 [<i class="fas fa-file-pdf"></i>](https://arxiv.org/pdf/2305.14341.pdf)
 
-CELLS: A parallel corpus for biomedical lay language generation
+CELLS: A parallel corpus for biomedical lay language generation<br>
 <span style="font-size:0.75em">**Yue Guo**, Wei Qiu, Gondy Leory, Sheng Wang, Trevor Cohen</span><br>
 <span style="font-size:0.75em">Pre-print, 2023</span>
 [<i class="fas fa-file-pdf"></i>](https://arxiv.org/pdf/2211.03818.pdf)
