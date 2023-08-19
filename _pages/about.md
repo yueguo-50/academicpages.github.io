@@ -12,16 +12,21 @@ Welcome to Yue Guo (郭月)'s webpage! I am a final year Ph.D. student in [Biome
 
 Before coming to UW, I was a postdoctoral researcher of the Department of Radiation Oncology and Molecular Radiation Sciences at Johns Hopkins University School of Medicine, supervised by [Todd McNutt](https://www.hopkinsmedicine.org/profiles/details/todd-mcnutt). I received my Master of Health Science (MHS) from the Johns Hopkins Bloomberg School of Public Health, majoring in cancer Epidemiology. I got Bachelor of Medicine, Bachelor of Surgery (M.B.B.S) degree from Capital Medical University.
 
+News
+======
+| 2023-05-30 | I commenced my internship with the [Semantic Scholar](https://www.semanticscholar.org/about) team at the [Allen Institute for AI (AI2)](https://allenai.org)!      |
+| 2023-05-23 | New preprints available! [“APPLS: A Meta-evaluation Testbed for Plain Language Summarization”](https://arxiv.org/pdf/2305.14341.pdf)  |
+
 Publications
 ======
 APPLS: A Meta-evaluation Testbed for Plain Language Summarization<br>
 <span style="font-size:0.75em">**Yue Guo**, Tal August, Gondy Leroy, Trevor Cohen, Lucy Lu Wang</span><br>
-<span style="font-size:0.75em">Pre-print, 2023</span>
+<span style="font-size:0.75em">arXiv May 2023</span>
 [<i class="fas fa-file-pdf"></i>](https://arxiv.org/pdf/2305.14341.pdf)
 
 CELLS: A parallel corpus for biomedical lay language generation<br>
 <span style="font-size:0.75em">**Yue Guo**, Wei Qiu, Gondy Leory, Sheng Wang, Trevor Cohen</span><br>
-<span style="font-size:0.75em">Pre-print, 2023</span>
+<span style="font-size:0.75em">arXiv Nov 2022</span>
 [<i class="fas fa-file-pdf"></i>](https://arxiv.org/pdf/2211.03818.pdf)
 
 Automated Lay Language Summarization of Biomedical Scientific Reviews<br>
