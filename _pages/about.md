@@ -38,7 +38,7 @@ Selected publications
         <td style="border: none;">APPLS: A Meta-evaluation Testbed for Plain Language Summarization<br>
 <span style="font-size:0.75em">**Yue Guo**, Tal August, Gondy Leroy, Trevor Cohen, Lucy Lu Wang</span><br>
 <span style="font-size:0.75em">arXiv May 2023</span>
-[<i class="fas fa-file-pdf"></i>](https://arxiv.org/pdf/2305.14341.pdf)</td>
+<a href="https://arxiv.org/pdf/2305.14341.pdf"><i class="fas fa-file-pdf"></i></a></td>
     </tr>
     <tr>
         <td style="width: 100px; border: none; font-weight: bold;">2023-05-23</td>
@@ -52,7 +52,7 @@ Selected publications
 </table>
 
 
-<img src="../images/teaser_image_APPLS.png" alt="Publication Image" style="width:20px; vertical-align:middle;">APPLS: A Meta-evaluation Testbed for Plain Language Summarization<br>
+<img src="../images/teaser_image_APPLS.png" alt="Publication Image" style="width:150px; vertical-align:middle;">APPLS: A Meta-evaluation Testbed for Plain Language Summarization<br>
 <span style="font-size:0.75em">**Yue Guo**, Tal August, Gondy Leroy, Trevor Cohen, Lucy Lu Wang</span><br>
 <span style="font-size:0.75em">arXiv May 2023</span>
 [<i class="fas fa-file-pdf"></i>](https://arxiv.org/pdf/2305.14341.pdf)
