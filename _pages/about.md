@@ -14,22 +14,20 @@ Before coming to UW, I was a postdoctoral researcher of the Department of Radiat
 
 News
 ======
-**2023-05-30** <span style="display: inline-block; margin-left: 2em;">I commenced my internship with the [Semantic Scholar](https://www.semanticscholar.org/about) team at the [Allen Institute for AI (AI2)](https://allenai.org)!</span>
-
-**2023-05-23** <span style="display: inline-block; margin-left: 2em;">New preprints available! [“APPLS: A Meta-evaluation Testbed for Plain Language Summarization”](https://arxiv.org/pdf/2305.14341.pdf)</span>
 
 <table style="width:100%; border: none;">
     <tr>
-        <td style="width: 150px; border: none; font-weight: bold;">2023-08-19</td>
-        <td style="border: none;">This is the content for this date. When the content wraps, it should align with the start of this sentence and not the date.</td>
+        <td style="width: 100px; border: none; font-weight: bold;">2023-05-30</td>
+        <td style="border: none;">I commenced my internship with the [Semantic Scholar](https://www.semanticscholar.org/about) team at the [Allen Institute for AI (AI2)](https://allenai.org)!</td>
     </tr>
     <tr>
-        <td style="width: 150px; border: none; font-weight: bold;">2023-08-18</td>
-        <td style="border: none;">Content for the previous date. Each date will have its own content section like this. And if this text wraps, it too should align properly.</td>
+        <td style="width: 150px; border: none; font-weight: bold;">2023-05-23</td>
+        <td style="border: none;">New preprints available! [“APPLS: A Meta-evaluation Testbed for Plain Language Summarization”](https://arxiv.org/pdf/2305.14341.pdf). We develop a set of controlled perturbations in a plain language summarization dataset to evaluate established evaluation metrics. We study 15 metrics, from automated metrics to lexical features to LLM-prompts. Turns out simplification is difficult for most metrics! POMME is our solution to this shortage of effective metrics! This novel metric leverages LLMs calibrated to both scientific and general-domain text to evaluate text simplicity. By embracing the adaptability of LMs, POMME can be easily customized to different domains!</td>
     </tr>
     <tr>
-        <td style="width: 150px; border: none; font-weight: bold;">2023-08-17</td>
-        <td style="border: none;">And another content section for this date. If it wraps, the alignment remains consistent.</td>
+        <td style="width: 150px; border: none; font-weight: bold;">2023-03-27</td>
+        <td style="border: none;">I instructed the course BIME 591 D Sp 23, titled "Exploring the Applications of Large Language Models in Clinical Natural Language Processing."
+</td>
     </tr>
 </table>
 
