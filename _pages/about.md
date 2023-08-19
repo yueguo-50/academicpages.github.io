@@ -14,9 +14,9 @@ Before coming to UW, I was a postdoctoral researcher of the Department of Radiat
 
 News
 ======
-**2023-05-30** <span style="display: inline-block; width: 150px;"></span> <span style="display: inline-block; margin-left: 2em;">I commenced my internship with the [Semantic Scholar](https://www.semanticscholar.org/about) team at the [Allen Institute for AI (AI2)](https://allenai.org)!</span>
+**2023-05-30** <span style="display: inline-block; margin-left: 2em;">I commenced my internship with the [Semantic Scholar](https://www.semanticscholar.org/about) team at the [Allen Institute for AI (AI2)](https://allenai.org)!</span>
 
-**2023-05-23** <span style="display: inline-block; width: 150px;"></span> <span style="display: inline-block; margin-left: 2em;">New preprints available! [“APPLS: A Meta-evaluation Testbed for Plain Language Summarization”](https://arxiv.org/pdf/2305.14341.pdf)</span>
+**2023-05-23** <span style="display: inline-block; margin-left: 2em;">New preprints available! [“APPLS: A Meta-evaluation Testbed for Plain Language Summarization”](https://arxiv.org/pdf/2305.14341.pdf)</span>
 
 Publications
 ======
