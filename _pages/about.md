@@ -12,9 +12,8 @@ Welcome to Yue Guo (郭月)'s webpage! I am a final year Ph.D. student in [Biome
 
 Before coming to UW, I was a postdoctoral researcher of the Department of Radiation Oncology and Molecular Radiation Sciences at Johns Hopkins University School of Medicine, supervised by [Todd McNutt](https://www.hopkinsmedicine.org/profiles/details/todd-mcnutt). I received my Master of Health Science (MHS) from the Johns Hopkins Bloomberg School of Public Health, majoring in cancer Epidemiology. I got Bachelor of Medicine, Bachelor of Surgery (M.B.B.S) degree from Capital Medical University.
 
-News
+news
 ======
-
 <table style="width:100%; border: none;">
     <tr>
         <td style="width: 100px; border: none; font-weight: bold;">2023-05-30</td>
@@ -31,7 +30,7 @@ News
     </tr>
 </table>
 
-Select Recent Publications
+select recent publications
 ======
 APPLS: A Meta-evaluation Testbed for Plain Language Summarization<br>
 <span style="font-size:0.75em">**Yue Guo**, Tal August, Gondy Leroy, Trevor Cohen, Lucy Lu Wang</span><br>
