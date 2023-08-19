@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Yue Guo (郭月)'s webpage! I am a final year Ph.D. student in [Biomedical and Health Informatics Department](http://bime.uw.edu) at the University of Washignton, advised by Prof. [Trevor Cohen](http://bime.uw.edu/faculty/trevor-cohen/). I am particularly interested in **Natural Language Processing** and **Machine Learning** in medical domain.
+Welcome to Yue Guo (郭月)'s webpage! I am a final year Ph.D. student in [Biomedical and Health Informatics Department (BIME)](http://bime.uw.edu) at the University of Washignton, advised by Prof. [Trevor Cohen](http://bime.uw.edu/faculty/trevor-cohen/). I am particularly interested in **Natural Language Processing** and **Machine Learning** in medical domain.
 
 Before coming to UW, I was a postdoctoral researcher of the Department of Radiation Oncology and Molecular Radiation Sciences at Johns Hopkins University School of Medicine, supervised by [Todd McNutt](https://www.hopkinsmedicine.org/profiles/details/todd-mcnutt). I received my Master of Health Science (MHS) from the Johns Hopkins Bloomberg School of Public Health, majoring in cancer Epidemiology. I got Bachelor of Medicine, Bachelor of Surgery (M.B.B.S) degree from Capital Medical University.
 
