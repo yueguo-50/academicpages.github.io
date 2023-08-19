@@ -18,7 +18,7 @@ News
 <table style="width:100%; border: none;">
     <tr>
         <td style="width: 100px; border: none; font-weight: bold;">2023-05-30</td>
-        <td style="border: none;">I commenced my internship with the [Semantic Scholar](https://www.semanticscholar.org/about) team at the [Allen Institute for AI (AI2)](https://allenai.org)!</td>
+        <td style="border: none;">I commenced my internship with the <a href="https://www.semanticscholar.org/about">Semantic Scholar</a> team at the <a href="https://allenai.org">Allen Institute for AI (AI2)</a>!</td>
     </tr>
     <tr>
         <td style="width: 150px; border: none; font-weight: bold;">2023-05-23</td>
