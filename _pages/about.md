@@ -8,12 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Yue Guo (郭月)'s webpage! I am a seconed year Ph.D. student in [Biomedical and Health Informatics Department](http://bime.uw.edu) at [the University of Washignton](https://www.washington.edu), advised by Prof. [Trevor Cohen](http://bime.uw.edu/faculty/trevor-cohen/). I am particularly interested in **Natural Language Processing** and **Machine Learning** in medical domain.
+Welcome to Yue Guo (郭月)'s webpage! I am a final year Ph.D. student in [Biomedical and Health Informatics Department](http://bime.uw.edu) at the University of Washignton, advised by Prof. [Trevor Cohen](http://bime.uw.edu/faculty/trevor-cohen/). I am particularly interested in **Natural Language Processing** and **Machine Learning** in medical domain.
 
-Before coming to UW, I was a postdoctoral researcher of the Department of Radiation Oncology and Molecular Radiation Sciences at Johns Hopkins University [School of Medicine](https://www.hopkinsmedicine.org/som/), supervised by [Todd McNutt](https://www.hopkinsmedicine.org/profiles/details/todd-mcnutt). I received my Master of Health Science (MHS) from [the Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu), majoring in cancer Epidemiology. I got Bachelor of Medicine, Bachelor of Surgery (M.B.B.S) degree from [ Capital Medical University](http://www.ccmu.edu.cn).
+Before coming to UW, I was a postdoctoral researcher of the Department of Radiation Oncology and Molecular Radiation Sciences at Johns Hopkins University School of Medicine, supervised by [Todd McNutt](https://www.hopkinsmedicine.org/profiles/details/todd-mcnutt). I received my Master of Health Science (MHS) from the Johns Hopkins Bloomberg School of Public Health, majoring in cancer Epidemiology. I got Bachelor of Medicine, Bachelor of Surgery (M.B.B.S) degree from Capital Medical University.
 
 Publications
 ======
+APPLS: A Meta-evaluation Testbed for Plain Language Summarization
+<span style="font-size:0.75em">**Yue Guo**, Tal August, Gondy Leroy, Trevor Cohen, Lucy Lu Wang</span><br>
+<span style="font-size:0.75em">Pre-print, 2023</span>
+[<i class="fas fa-file-pdf"></i>](https://arxiv.org/pdf/2305.14341.pdf)
+
+CELLS: A parallel corpus for biomedical lay language generation
+<span style="font-size:0.75em">**Yue Guo**, Wei Qiu, Gondy Leory, Sheng Wang, Trevor Cohen</span><br>
+<span style="font-size:0.75em">Pre-print, 2023</span>
+[<i class="fas fa-file-pdf"></i>](https://arxiv.org/pdf/2211.03818.pdf)
+
 Automated Lay Language Summarization of Biomedical Scientific Reviews<br>
 <span style="font-size:0.75em">**Yue Guo**, Wei Qiu, Yizhong Wang, Trevor Cohen</span> <br>
 <span style="font-size:0.75em">the 35th AAAI conference in Artificial Intelligence (AAAI 2021)</span>
