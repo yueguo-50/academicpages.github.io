@@ -12,7 +12,7 @@ Welcome to Yue Guo (郭月)'s webpage! I am a final year Ph.D. student in [Biome
 
 Before coming to UW, I was a postdoctoral researcher of the Department of Radiation Oncology and Molecular Radiation Sciences at Johns Hopkins University School of Medicine, supervised by [Todd McNutt](https://www.hopkinsmedicine.org/profiles/details/todd-mcnutt). I received my Master of Health Science (MHS) from the Johns Hopkins Bloomberg School of Public Health, majoring in cancer Epidemiology. I got Bachelor of Medicine, Bachelor of Surgery (M.B.B.S) degree from Capital Medical University.
 
-news
+News
 ======
 <table style="width:100%; border: none;">
     <tr>
@@ -20,19 +20,19 @@ news
         <td style="border: none;">I commenced my internship with the <a href="https://www.semanticscholar.org/about">Semantic Scholar</a> team at the <a href="https://allenai.org">Allen Institute for AI (AI2)</a>!</td>
     </tr>
     <tr>
-        <td style="width: 150px; border: none; font-weight: bold;">2023-05-23</td>
+        <td style="width: 100px; border: none; font-weight: bold;">2023-05-23</td>
         <td style="border: none;">New preprints available! <a href="https://arxiv.org/pdf/2305.14341.pdf">“APPLS: A Meta-evaluation Testbed for Plain Language Summarization</a>. First work to controll perturbations in a plain language summarization dataset. We study 15 metrics, from automated metrics to lexical features to LLM-prompts. Turns out simplification is difficult for most metrics! POMME is our solution to this shortage of effective metrics! </td>
     </tr>
     <tr>
-        <td style="width: 150px; border: none; font-weight: bold;">2023-03-27</td>
+        <td style="width: 100px; border: none; font-weight: bold;">2023-03-27</td>
         <td style="border: none;">I instructed the course BIME 591 D Sp 23, titled "Exploring the Applications of Large Language Models in Clinical Natural Language Processing."
 </td>
     </tr>
 </table>
 
-select recent publications
+Selected publications
 ======
-APPLS: A Meta-evaluation Testbed for Plain Language Summarization<br>
+<img src="https://yourdomain.com/path/to/your/image.png" alt="Publication Image" style="width:20px; vertical-align:middle;">APPLS: A Meta-evaluation Testbed for Plain Language Summarization<br>
 <span style="font-size:0.75em">**Yue Guo**, Tal August, Gondy Leroy, Trevor Cohen, Lucy Lu Wang</span><br>
 <span style="font-size:0.75em">arXiv May 2023</span>
 [<i class="fas fa-file-pdf"></i>](https://arxiv.org/pdf/2305.14341.pdf)
