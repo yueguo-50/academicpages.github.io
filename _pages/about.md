@@ -32,22 +32,13 @@ News
 
 Selected publications
 ======
-<table style="width:100%; border: none;">
+<table style="width:100%; border: none; font-size: 18px;">
     <tr>
-        <td style="width: 100px; border: none; font-weight: bold;"><img src="../images/teaser_image_APPLS.png" alt="Publication Image" style="width:150px; vertical-align:middle;"></td>
+        <td style="width: 500px; border: none; font-weight: bold;"><img src="../images/teaser_image_APPLS.png" alt="Publication Image" style="width:300px; vertical-align:middle;"></td>
         <td style="border: none;">APPLS: A Meta-evaluation Testbed for Plain Language Summarization<br>
 <span style="font-size:0.75em">**Yue Guo**, Tal August, Gondy Leroy, Trevor Cohen, Lucy Lu Wang</span><br>
 <span style="font-size:0.75em">arXiv May 2023</span>
 <a href="https://arxiv.org/pdf/2305.14341.pdf"><i class="fas fa-file-pdf"></i></a></td>
-    </tr>
-    <tr>
-        <td style="width: 100px; border: none; font-weight: bold;">2023-05-23</td>
-        <td style="border: none;">New preprints available! <a href="https://arxiv.org/pdf/2305.14341.pdf">“APPLS: A Meta-evaluation Testbed for Plain Language Summarization</a>. First work to controll perturbations in a plain language summarization dataset. We study 15 metrics, from automated metrics to lexical features to LLM-prompts. Turns out simplification is difficult for most metrics! POMME is our solution to this shortage of effective metrics! </td>
-    </tr>
-    <tr>
-        <td style="width: 100px; border: none; font-weight: bold;">2023-03-27</td>
-        <td style="border: none;">I instructed the course BIME 591 D Sp 23, titled "Exploring the Applications of Large Language Models in Clinical Natural Language Processing."
-</td>
     </tr>
 </table>
 
