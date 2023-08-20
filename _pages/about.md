@@ -16,15 +16,15 @@ News
 ======
 <table style="width:100%; border: none; font-size: 16px;">
     <tr>
-        <td style="width: 70px; border: none; font-weight: bold;">May-30-23</td>
+        <td style="width: 50px; border: none; font-weight: bold;">May-30-23</td>
         <td style="border: none;">I commenced my internship with the <a href="https://www.semanticscholar.org/about">Semantic Scholar</a> team at the <a href="https://allenai.org">Allen Institute for AI (AI2)</a>!</td>
     </tr>
     <tr>
-        <td style="width: 70px; border: none; font-weight: bold;">May-23-23</td>
+        <td style="width: 50px; border: none; font-weight: bold;">May-23-23</td>
         <td style="border: none;">New preprints available! <a href="https://arxiv.org/pdf/2305.14341.pdf">“APPLS: A Meta-evaluation Testbed for Plain Language Summarization</a>. First work to controll perturbations in a plain language summarization dataset. We study 15 metrics, from automated metrics to lexical features to LLM-prompts. Turns out simplification is difficult for most metrics! POMME is our solution to this shortage of effective metrics! </td>
     </tr>
     <tr>
-        <td style="width: 70px; border: none; font-weight: bold;">March-27-23</td>
+        <td style="width: 50px; border: none; font-weight: bold;">March-27-23</td>
         <td style="border: none;">I instructed the course BIME 591 D Sp 23, titled "Exploring the Applications of Large Language Models in Clinical Natural Language Processing."
 </td>
     </tr>
