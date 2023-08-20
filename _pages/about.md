@@ -10,7 +10,7 @@ redirect_from:
 
 <span style="font-size: 16px;">Welcome to Yue Guo (郭月)'s webpage! I am a final year Ph.D. student in [Biomedical and Health Informatics Department (BIME)](http://bime.uw.edu) at the University of Washignton, advised by Prof. [Trevor Cohen](http://bime.uw.edu/faculty/trevor-cohen/). I am particularly interested in **Natural Language Processing** and **Machine Learning** in medical domain.</span>
 
-Before coming to UW, I was a postdoctoral researcher of the Department of Radiation Oncology and Molecular Radiation Sciences at Johns Hopkins University School of Medicine, supervised by [Todd McNutt](https://www.hopkinsmedicine.org/profiles/details/todd-mcnutt). I received my Master of Health Science (MHS) from the Johns Hopkins Bloomberg School of Public Health, majoring in cancer Epidemiology. I got Bachelor of Medicine, Bachelor of Surgery (M.B.B.S) degree from Capital Medical University.
+<span style="font-size: 16px;">Before coming to UW, I was a postdoctoral researcher of the Department of Radiation Oncology and Molecular Radiation Sciences at Johns Hopkins University School of Medicine, supervised by [Todd McNutt](https://www.hopkinsmedicine.org/profiles/details/todd-mcnutt). I received my Master of Health Science (MHS) from the Johns Hopkins Bloomberg School of Public Health, majoring in cancer Epidemiology. I got Bachelor of Medicine, Bachelor of Surgery (M.B.B.S) degree from Capital Medical University.</span>
 
 News
 ======
@@ -48,7 +48,7 @@ Selected publications
 <a href="https://arxiv.org/pdf/2211.03818.pdf"><i class="fas fa-file-pdf"></i></a></td>
     </tr>
     <tr>
-        <td style="width: 125px; border: none; font-weight: bold;"><img src="../images/teaser_image_CELLS.pdf" alt="Publication Image" style="width:100px; vertical-align:middle; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);"></td>
+        <td style="width: 125px; border: none; font-weight: bold;"><img src="../images/aaai_teaser.pdf" alt="Publication Image" style="width:100px; vertical-align:middle; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);"></td>
         <td style="border: none;">Automated Lay Language Summarization of Biomedical Scientific Reviews<br>
 <span style="font-size:0.75em"><strong>Yue Guo</strong>, Wei Qiu, Yizhong Wang, Trevor Cohen</span> <br>
 <span style="font-size:0.75em">the 35th AAAI conference in Artificial Intelligence (AAAI 2021)</span>
@@ -56,35 +56,21 @@ Selected publications
 <a href="https://github.com/qiuweipku/Plain_language_summarization"><i class="fab fa-github"></i></a>
 <i class="fas fa-play-circle"></i><br></td>
     </tr>
-</table>
-
-
-Automated Lay Language Summarization of Biomedical Scientific Reviews<br>
-<span style="font-size:0.75em">**Yue Guo**, Wei Qiu, Yizhong Wang, Trevor Cohen</span> <br>
-<span style="font-size:0.75em">the 35th AAAI conference in Artificial Intelligence (AAAI 2021)</span>
-[<i class="fas fa-file-pdf"></i>](https://ojs.aaai.org/index.php/AAAI/article/view/16089)
-[<i class="fab fa-github"></i>](https://github.com/qiuweipku/Plain_language_summarization)
-<i class="fas fa-play-circle"></i>
-
-Crossing the 'Cookie Theft' Corpus Chasm: Applying what BERT Learns from Outside Data to the ADReSS Challenge Dementia Detection Task<br>
-<span style="font-size:0.75em">**Yue Guo**, Changye Li, Carol Roan, Serguei Pakhomov, Trevor Cohen</span> <br>
+    <tr>
+        <td style="width: 125px; border: none; font-weight: bold;"><img src="../images/dementia_teaser.pdf" alt="Publication Image" style="width:100px; vertical-align:middle; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);"></td>
+        <td style="border: none;">Crossing the 'Cookie Theft' Corpus Chasm: Applying what BERT Learns from Outside Data to the ADReSS Challenge Dementia Detection Task<br>
+<span style="font-size:0.75em"><strong>Yue Guo</strong>, Changye Li, Carol Roan, Serguei Pakhomov, Trevor Cohen</span> <br>
 <span style="font-size:0.75em">Frontiers in Computer Science, 2021</span>
-[<i class="fas fa-file-pdf"></i>](https://www.frontiersin.org/articles/10.3389/fcomp.2021.642517/abstract)
-
-The Performance of Immunocytochemistry Staining as Triaging Tests for High-Risk HPV-Positive Women:A 24-Month Prospective Study<br>
-<span style="font-size:0.75em">Yu-Cong Li, Yu-Qian Zhao, Ting-Yuan Li, Wen Chen, Guang-Dong Liao, Hai-Rui Wang, Hai-Ke Lei, **Yue Guo**, Qi Zhou</span><br>
-<span style="font-size:0.75em">Journal of Oncology, 2020</span>
-[<i class="fas fa-file-pdf"></i>](https://downloads.hindawi.com/journals/jo/2020/6878761.pdf)
-
-Spatial Radiation Dose Influence on Xerostomia Recovery and Its Comparison to Acute Incidence in Head Neck Cancer Patients<br>
-<span style="font-size:0.75em">**Yue Guo**, Wei Jiang, Pranav Lakshminarayanan, Xuan Hui, Peijin Han, Zhi Cheng, Michale Bowers, Ilya Shpitser,Sauleh Siddiqui, Russell H Taylor, Harry Quon, Todd McNutt</span><br>
+<a href="https://www.frontiersin.org/articles/10.3389/fcomp.2021.642517/abstract"><i class="fas fa-file-pdf"></i></a></td>
+    </tr>
+    <tr>
+        <td style="width: 125px; border: none; font-weight: bold;"><img src="../images/radiation_teaser.pdf" alt="Publication Image" style="width:100px; vertical-align:middle; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);"></td>
+        <td style="border: none;">Spatial Radiation Dose Influence on Xerostomia Recovery and Its Comparison to Acute Incidence in Head Neck Cancer Patients<br>
+<span style="font-size:0.75em"><strong>Yue Guo</strong>, Wei Jiang, Pranav Lakshminarayanan, Xuan Hui, Peijin Han, Zhi Cheng, Michale Bowers, Ilya Shpitser,Sauleh Siddiqui, Russell H Taylor, Harry Quon, Todd McNutt</span><br>
 <span style="font-size:0.75em">Advances in Radiation Oncology, 2020</span>
-[<i class="fas fa-file-pdf"></i>](https://www.advancesradonc.org/action/showPdf?pii=S2452-1094%2819%2930122-8)
-
-Dose/Volume Histogram Patterns in Salivary Gland Subvolumes Influence Xerostomia Injury and Recovery<br>
-<span style="font-size:0.75em">Peijin Han, Pranav Lakshminarayanan, Wei Jiang, Ilya Shpitser, Xuan Hui, Sang Ho Lee, Zhi Cheng, **Yue Guo**, Russ Taylor, Sauleh Siddiqui, Michael Bowers, Khadija Sheikh, Junghoon Lee, Harry Quon, Todd McNutt</span><br>
-<span style="font-size:0.75em">Scientific Reports, 2019</span>
-[<i class="fas fa-file-pdf"></i>](https://www.nature.com/articles/s41598-019-40228-y.pdf)
+<a href="https://www.advancesradonc.org/action/showPdf?pii=S2452-1094%2819%2930122-8"><i class="fas fa-file-pdf"></i></a></td>
+    </tr>
+</table>
 
 Presentations
 ======
