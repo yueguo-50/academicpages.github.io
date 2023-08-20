@@ -14,7 +14,7 @@ Before coming to UW, I was a postdoctoral researcher of the Department of Radiat
 
 News
 ======
-<table style="width:100%; border: none; font-size: 18px;">
+<table style="width:100%; border: none; font-size: 16px;">
     <tr>
         <td style="width: 100px; border: none; font-weight: bold;">2023-05-30</td>
         <td style="border: none;">I commenced my internship with the <a href="https://www.semanticscholar.org/about">Semantic Scholar</a> team at the <a href="https://allenai.org">Allen Institute for AI (AI2)</a>!</td>
@@ -32,7 +32,7 @@ News
 
 Selected publications
 ======
-<table style="width:100%; border: none; font-size: 18px;">
+<table style="width:100%; border: none; font-size: 16px;">
     <tr>
         <td style="width: 225px; border: none; font-weight: bold;"><img src="../images/teaser_image_APPLS.png" alt="Publication Image" style="width:200px; vertical-align:middle; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);"></td>
         <td style="border: none;">APPLS: A Meta-evaluation Testbed for Plain Language Summarization<br>
