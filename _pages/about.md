@@ -15,6 +15,11 @@ redirect_from:
 News
 ======
 <table style="width:70%; border: none; font-size: 16px;">
+  <style>
+    td:nth-child(2) {
+        font-size: 12px; /* Change 18px to your preferred size */
+    }
+</style>
     <tr>
         <td style="width: 50px; border: none; font-weight: bold;">May-30-23</td>
         <td style="border: none;">I commenced my internship with the <a href="https://www.semanticscholar.org/about">Semantic Scholar</a> team at the <a href="https://allenai.org">Allen Institute for AI (AI2)</a>!</td>
