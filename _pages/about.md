@@ -48,7 +48,7 @@ Selected publications
 <a href="https://arxiv.org/pdf/2211.03818.pdf"><i class="fas fa-file-pdf"></i></a></td>
     </tr>
     <tr>
-        <td style="width: 225px; border: none; font-weight: bold;"><img src="../images/teaser_image_CELLS.png" alt="Publication Image" style="width:200px; vertical-align:middle; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);"></td>
+        <td style="width: 225px; border: none; font-weight: bold;"><img src="../images/teaser_image_CELLS.pdf" alt="Publication Image" style="width:200px; vertical-align:middle; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);"></td>
         <td style="border: none;">Automated Lay Language Summarization of Biomedical Scientific Reviews<br>
 <span style="font-size:0.75em"><strong>Yue Guo</strong>, Wei Qiu, Yizhong Wang, Trevor Cohen</span> <br>
 <span style="font-size:0.75em">the 35th AAAI conference in Artificial Intelligence (AAAI 2021)</span>
