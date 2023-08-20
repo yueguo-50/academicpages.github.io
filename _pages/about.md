@@ -21,7 +21,7 @@ News
     </tr>
     <tr>
         <td style="width: 50px; border: none; font-weight: bold;">May-23-23</td>
-        <td style="border: none; font-size: 16px;">New preprints available! <a href="https://arxiv.org/pdf/2305.14341.pdf">“APPLS: A Meta-evaluation Testbed for Plain Language Summarization</a>. First work to controll perturbations in a plain language summarization dataset. We study 15 metrics, from automated metrics to lexical features to LLM-prompts. Turns out simplification is difficult for most metrics! POMME is our solution to this shortage of effective metrics! </td>
+        <td style="border: none; font-size: 16px;">New preprints available! <a href="https://arxiv.org/pdf/2305.14341.pdf">“APPLS: A Meta-evaluation Testbed for Plain Language Summarization"</a>. First work to controll perturbations in a plain language summarization dataset. We study 15 metrics, from automated metrics to lexical features to LLM-prompts. Turns out simplification is difficult for most metrics. POMME is our solution to this shortage of effective metrics! </td>
     </tr>
     <tr>
         <td style="width: 50px; border: none; font-weight: bold;">March-27-23</td>
