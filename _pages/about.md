@@ -41,19 +41,23 @@ Selected publications
 <a href="https://arxiv.org/pdf/2305.14341.pdf"><i class="fas fa-file-pdf"></i></a></td>
     </tr>
     <tr>
-        <td style="width: 225px; border: none; font-weight: bold;"><img src="../images/teaser_image_APPLS.png" alt="Publication Image" style="width:200px; vertical-align:middle; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);"></td>
+        <td style="width: 225px; border: none; font-weight: bold;"><img src="../images/teaser_image_CELLS.png" alt="Publication Image" style="width:200px; vertical-align:middle; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);"></td>
         <td style="border: none;">CELLS: A parallel corpus for biomedical lay language generation<br>
 <span style="font-size:0.75em"><strong>Yue Guo</strong>, Wei Qiu, Gondy Leory, Sheng Wang, Trevor Cohen</span><br>
 <span style="font-size:0.75em">arXiv Nov 2022</span>
 <a href="https://arxiv.org/pdf/2211.03818.pdf"><i class="fas fa-file-pdf"></i></a></td>
     </tr>
+    <tr>
+        <td style="width: 225px; border: none; font-weight: bold;"><img src="../images/teaser_image_CELLS.png" alt="Publication Image" style="width:200px; vertical-align:middle; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);"></td>
+        <td style="border: none;">Automated Lay Language Summarization of Biomedical Scientific Reviews<br>
+<span style="font-size:0.75em"><strong>Yue Guo</strong>, Wei Qiu, Yizhong Wang, Trevor Cohen</span> <br>
+<span style="font-size:0.75em">the 35th AAAI conference in Artificial Intelligence (AAAI 2021)</span>
+<a href="https://ojs.aaai.org/index.php/AAAI/article/view/16089"><i class="fas fa-file-pdf"></i></a></td>
+<a href="https://github.com/qiuweipku/Plain_language_summarization"><i class="fab fa-github"></i></a></td>
+<i class="fas fa-play-circle"></i>
+    </tr>
 </table>
 
-
-CELLS: A parallel corpus for biomedical lay language generation<br>
-<span style="font-size:0.75em">**Yue Guo**, Wei Qiu, Gondy Leory, Sheng Wang, Trevor Cohen</span><br>
-<span style="font-size:0.75em">arXiv Nov 2022</span>
-[<i class="fas fa-file-pdf"></i>](https://arxiv.org/pdf/2211.03818.pdf)
 
 Automated Lay Language Summarization of Biomedical Scientific Reviews<br>
 <span style="font-size:0.75em">**Yue Guo**, Wei Qiu, Yizhong Wang, Trevor Cohen</span> <br>
