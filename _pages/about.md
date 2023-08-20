@@ -14,7 +14,7 @@ redirect_from:
 
 News
 ======
-<table style="width:100%; border: none; font-size: 16px;">
+<table style="width:70%; border: none; font-size: 16px;">
     <tr>
         <td style="width: 50px; border: none; font-weight: bold;">May-30-23</td>
         <td style="border: none;">I commenced my internship with the <a href="https://www.semanticscholar.org/about">Semantic Scholar</a> team at the <a href="https://allenai.org">Allen Institute for AI (AI2)</a>!</td>
