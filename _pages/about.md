@@ -14,23 +14,18 @@ redirect_from:
 
 News
 ======
-<table style="width:70%; border: none; font-size: 16px;">
-  <style>
-    td:nth-child(2) {
-        font-size: 12px; /* Change 18px to your preferred size */
-    }
-</style>
+<table style="width:70%; border: none; ">
     <tr>
         <td style="width: 50px; border: none; font-weight: bold;">May-30-23</td>
-        <td style="border: none;">I commenced my internship with the <a href="https://www.semanticscholar.org/about">Semantic Scholar</a> team at the <a href="https://allenai.org">Allen Institute for AI (AI2)</a>!</td>
+        <td style="border: none; font-size: 16px;">I commenced my internship with the <a href="https://www.semanticscholar.org/about">Semantic Scholar</a> team at the <a href="https://allenai.org">Allen Institute for AI (AI2)</a>!</td>
     </tr>
     <tr>
         <td style="width: 50px; border: none; font-weight: bold;">May-23-23</td>
-        <td style="border: none;">New preprints available! <a href="https://arxiv.org/pdf/2305.14341.pdf">“APPLS: A Meta-evaluation Testbed for Plain Language Summarization</a>. First work to controll perturbations in a plain language summarization dataset. We study 15 metrics, from automated metrics to lexical features to LLM-prompts. Turns out simplification is difficult for most metrics! POMME is our solution to this shortage of effective metrics! </td>
+        <td style="border: none; font-size: 16px;">New preprints available! <a href="https://arxiv.org/pdf/2305.14341.pdf">“APPLS: A Meta-evaluation Testbed for Plain Language Summarization</a>. First work to controll perturbations in a plain language summarization dataset. We study 15 metrics, from automated metrics to lexical features to LLM-prompts. Turns out simplification is difficult for most metrics! POMME is our solution to this shortage of effective metrics! </td>
     </tr>
     <tr>
         <td style="width: 50px; border: none; font-weight: bold;">March-27-23</td>
-        <td style="border: none;">I instructed the course BIME 591 D Sp 23, titled "Exploring the Applications of Large Language Models in Clinical Natural Language Processing."
+        <td style="border: none; font-size: 16px;">I instructed the course BIME 591 D Sp 23, titled "Exploring the Applications of Large Language Models in Clinical Natural Language Processing."
 </td>
     </tr>
 </table>
