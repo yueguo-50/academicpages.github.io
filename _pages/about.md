@@ -52,9 +52,9 @@ Selected publications
         <td style="border: none;">Automated Lay Language Summarization of Biomedical Scientific Reviews<br>
 <span style="font-size:0.75em"><strong>Yue Guo</strong>, Wei Qiu, Yizhong Wang, Trevor Cohen</span> <br>
 <span style="font-size:0.75em">the 35th AAAI conference in Artificial Intelligence (AAAI 2021)</span>
-<a href="https://ojs.aaai.org/index.php/AAAI/article/view/16089"><i class="fas fa-file-pdf"></i></a><br>
-<a href="https://github.com/qiuweipku/Plain_language_summarization"><i class="fab fa-github"></i></a><br>
-<i class="fas fa-play-circle"></i></td>
+<a href="https://ojs.aaai.org/index.php/AAAI/article/view/16089"><i class="fas fa-file-pdf"></i></a>
+<a href="https://github.com/qiuweipku/Plain_language_summarization"><i class="fab fa-github"></i></a>
+<i class="fas fa-play-circle"></i><br></td>
     </tr>
 </table>
 
