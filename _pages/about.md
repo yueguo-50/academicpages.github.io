@@ -36,24 +36,19 @@ Selected publications
     <tr>
         <td style="width: 225px; border: none; font-weight: bold;"><img src="../images/teaser_image_APPLS.png" alt="Publication Image" style="width:200px; vertical-align:middle; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);"></td>
         <td style="border: none;">APPLS: A Meta-evaluation Testbed for Plain Language Summarization<br>
-<span style="font-size:0.75em">**Yue Guo**, Tal August, Gondy Leroy, Trevor Cohen, Lucy Lu Wang</span><br>
+<span style="font-size:0.75em"><strong>Yue Guo</strong>, Tal August, Gondy Leroy, Trevor Cohen, Lucy Lu Wang</span><br>
 <span style="font-size:0.75em">arXiv May 2023</span>
 <a href="https://arxiv.org/pdf/2305.14341.pdf"><i class="fas fa-file-pdf"></i></a></td>
     </tr>
     <tr>
         <td style="width: 225px; border: none; font-weight: bold;"><img src="../images/teaser_image_APPLS.png" alt="Publication Image" style="width:200px; vertical-align:middle; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);"></td>
         <td style="border: none;">CELLS: A parallel corpus for biomedical lay language generation<br>
-<span style="font-size:0.75em"><strong>Yue Guo</strong>strong, Wei Qiu, Gondy Leory, Sheng Wang, Trevor Cohen</span><br>
-<span style="font-size:0.75em">arXiv May 2023</span>
-<a href="https://arxiv.org/pdf/2305.14341.pdf"><i class="fas fa-file-pdf"></i></a></td>
+<span style="font-size:0.75em"><strong>Yue Guo</strong>, Wei Qiu, Gondy Leory, Sheng Wang, Trevor Cohen</span><br>
+<span style="font-size:0.75em">arXiv Nov 2022</span>
+<a href="https://arxiv.org/pdf/2211.03818.pdf"><i class="fas fa-file-pdf"></i></a></td>
     </tr>
 </table>
 
-
-<img src="../images/teaser_image_APPLS.png" alt="Publication Image" style="width:150px; vertical-align:middle;">APPLS: A Meta-evaluation Testbed for Plain Language Summarization<br>
-<span style="font-size:0.75em">**Yue Guo**, Tal August, Gondy Leroy, Trevor Cohen, Lucy Lu Wang</span><br>
-<span style="font-size:0.75em">arXiv May 2023</span>
-[<i class="fas fa-file-pdf"></i>](https://arxiv.org/pdf/2305.14341.pdf)
 
 CELLS: A parallel corpus for biomedical lay language generation<br>
 <span style="font-size:0.75em">**Yue Guo**, Wei Qiu, Gondy Leory, Sheng Wang, Trevor Cohen</span><br>
