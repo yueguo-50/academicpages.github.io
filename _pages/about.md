@@ -14,7 +14,7 @@ Before coming to UW, I was a postdoctoral researcher of the Department of Radiat
 
 News
 ======
-<table style="width:100%; border: none;">
+<table style="width:100%; border: none; font-size: 18px;">
     <tr>
         <td style="width: 100px; border: none; font-weight: bold;">2023-05-30</td>
         <td style="border: none;">I commenced my internship with the <a href="https://www.semanticscholar.org/about">Semantic Scholar</a> team at the <a href="https://allenai.org">Allen Institute for AI (AI2)</a>!</td>
@@ -37,6 +37,13 @@ Selected publications
         <td style="width: 225px; border: none; font-weight: bold;"><img src="../images/teaser_image_APPLS.png" alt="Publication Image" style="width:200px; vertical-align:middle; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);"></td>
         <td style="border: none;">APPLS: A Meta-evaluation Testbed for Plain Language Summarization<br>
 <span style="font-size:0.75em">**Yue Guo**, Tal August, Gondy Leroy, Trevor Cohen, Lucy Lu Wang</span><br>
+<span style="font-size:0.75em">arXiv May 2023</span>
+<a href="https://arxiv.org/pdf/2305.14341.pdf"><i class="fas fa-file-pdf"></i></a></td>
+    </tr>
+    <tr>
+        <td style="width: 225px; border: none; font-weight: bold;"><img src="../images/teaser_image_APPLS.png" alt="Publication Image" style="width:200px; vertical-align:middle; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);"></td>
+        <td style="border: none;">CELLS: A parallel corpus for biomedical lay language generation<br>
+<span style="font-size:0.75em"><strong>Yue Guo</strong>strong, Wei Qiu, Gondy Leory, Sheng Wang, Trevor Cohen</span><br>
 <span style="font-size:0.75em">arXiv May 2023</span>
 <a href="https://arxiv.org/pdf/2305.14341.pdf"><i class="fas fa-file-pdf"></i></a></td>
     </tr>
