@@ -37,21 +37,21 @@ Selected publications
         <td style="width: 125px; border: none; font-weight: bold;"><img src="../images/APPLS_teaser.png" alt="Publication Image" style="width:100px; vertical-align:middle; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);"></td>
         <td style="border: none;">APPLS: A Meta-evaluation Testbed for Plain Language Summarization<br>
 <span style="font-size:0.75em"><strong>Yue Guo</strong>, Tal August, Gondy Leroy, Trevor Cohen, Lucy Lu Wang</span><br>
-<span style="font-size:0.75em">arXiv May 2023</span>
+<span style="font-size:0.75em">arXiv, May 2023</span>
 <a href="https://arxiv.org/pdf/2305.14341.pdf"><i class="fas fa-file-pdf"></i></a></td>
     </tr>
     <tr>
         <td style="width: 125px; border: none; font-weight: bold;"><img src="../images/CELLS_teaser.png" alt="Publication Image" style="width:100px; vertical-align:middle; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);"></td>
         <td style="border: none;">CELLS: A parallel corpus for biomedical lay language generation<br>
 <span style="font-size:0.75em"><strong>Yue Guo</strong>, Wei Qiu, Gondy Leory, Sheng Wang, Trevor Cohen</span><br>
-<span style="font-size:0.75em">arXiv Nov 2022</span>
+<span style="font-size:0.75em">arXiv, Nov 2022</span>
 <a href="https://arxiv.org/pdf/2211.03818.pdf"><i class="fas fa-file-pdf"></i></a></td>
     </tr>
     <tr>
         <td style="width: 125px; border: none; font-weight: bold;"><img src="../images/aaai_teaser.pdf" alt="Publication Image" style="width:100px; vertical-align:middle; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);"></td>
         <td style="border: none;">Automated Lay Language Summarization of Biomedical Scientific Reviews<br>
 <span style="font-size:0.75em"><strong>Yue Guo</strong>, Wei Qiu, Yizhong Wang, Trevor Cohen</span> <br>
-<span style="font-size:0.75em">the 35th AAAI conference in Artificial Intelligence (AAAI 2021)</span>
+<span style="font-size:0.75em">the 35th AAAI conference in Artificial Intelligence, Feb 2021</span>
 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/16089"><i class="fas fa-file-pdf"></i></a>
 <a href="https://github.com/qiuweipku/Plain_language_summarization"><i class="fab fa-github"></i></a>
 <i class="fas fa-play-circle"></i><br></td>
@@ -60,14 +60,14 @@ Selected publications
         <td style="width: 125px; border: none; font-weight: bold;"><img src="../images/dementia_teaser.pdf" alt="Publication Image" style="width:100px; vertical-align:middle; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);"></td>
         <td style="border: none;">Crossing the 'Cookie Theft' Corpus Chasm: Applying what BERT Learns from Outside Data to the ADReSS Challenge Dementia Detection Task<br>
 <span style="font-size:0.75em"><strong>Yue Guo</strong>, Changye Li, Carol Roan, Serguei Pakhomov, Trevor Cohen</span> <br>
-<span style="font-size:0.75em">Frontiers in Computer Science, 2021</span>
+<span style="font-size:0.75em">Frontiers in Computer Science, Apr 2021</span>
 <a href="https://www.frontiersin.org/articles/10.3389/fcomp.2021.642517/abstract"><i class="fas fa-file-pdf"></i></a></td>
     </tr>
     <tr>
         <td style="width: 125px; border: none; font-weight: bold;"><img src="../images/radiation_teaser.pdf" alt="Publication Image" style="width:100px; vertical-align:middle; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);"></td>
         <td style="border: none;">Spatial Radiation Dose Influence on Xerostomia Recovery and Its Comparison to Acute Incidence in Head Neck Cancer Patients<br>
 <span style="font-size:0.75em"><strong>Yue Guo</strong>, Wei Jiang, Pranav Lakshminarayanan, Xuan Hui, Peijin Han, Zhi Cheng, Michale Bowers, Ilya Shpitser,Sauleh Siddiqui, Russell H Taylor, Harry Quon, Todd McNutt</span><br>
-<span style="font-size:0.75em">Advances in Radiation Oncology, 2020</span>
+<span style="font-size:0.75em">Advances in Radiation Oncology, March 2020</span>
 <a href="https://www.advancesradonc.org/action/showPdf?pii=S2452-1094%2819%2930122-8"><i class="fas fa-file-pdf"></i></a></td>
     </tr>
 </table>
