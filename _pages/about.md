@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi there!"
+title: "Yue Guo"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
